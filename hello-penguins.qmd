@@ -1,11 +1,12 @@
 ---
+subtitle: "abc"
 title: "Hello, Penguins!"
 author: Heidi
 date: 2023-10-17
-format: html
+format:
+  html: 
+    toc: true
 editor: visual
-execute: 
-  echo: true
 ---
 
 ## Data

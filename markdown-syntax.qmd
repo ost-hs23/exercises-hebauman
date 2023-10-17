@@ -1,8 +1,13 @@
 ---
 format: html
+toc: true
 editor: source
+title: "Exercise"
+author: Heidi
+
 ---
 
+## 1. Exercise description
 1.  Add a title and author to the YAML header. Add a table of contents as well.
 
 2.  Add two major sections with level two headers. Add a subsection to one of your major sections.
@@ -10,3 +15,12 @@ editor: source
 3.  Add an image link to a web image you have chosen.
 
 4.  Use any markdown syntax that you can recall from the slides or refresh your memory from <https://quarto.org/docs/authoring/markdown-basics.html>.
+
+## 2. Cat pictures
+
+### 2.1. Funny cat pictures
+
+Look at this [cutie](https://th.bing.com/th/id/R.4772001b467b480cd3579e97bafb352f?rik=gj148TFTcf7gtA&riu=http%3a%2f%2fwww.hdwallpaper.nu%2fwp-content%2fuploads%2f2015%2f02%2fFunny-Cat-Hidden.jpg&ehk=U6Cjoa2RqEoCWgZC2srK9CGyrzRrc1MX%2fh9lzuae7K0%3d&risl=&pid=ImgRaw&r=0).
+
+
+
