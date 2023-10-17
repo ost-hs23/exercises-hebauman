@@ -1,7 +1,11 @@
 ---
 title: "Hello, Penguins!"
+author: Heidi
+date: 2023-10-17
 format: html
 editor: visual
+execute: 
+  echo: true
 ---
 
 ## Data
@@ -11,6 +15,7 @@ For this analysis we'll use the penguins dataset from the palmerpenguins R packa
 ```{r}
 #| label: load-packages
 #| message: false
+#| echo: false
 
 library(tidyverse)
 library(ggthemes)
